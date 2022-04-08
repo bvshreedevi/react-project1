@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bvshreedevi/react-project1/static/css/main.b5883d03.css",
+    "main.js": "/bvshreedevi/react-project1/static/js/main.afdc4f98.js",
+    "static/js/787.142da1d4.chunk.js": "/bvshreedevi/react-project1/static/js/787.142da1d4.chunk.js",
+    "static/media/logo.svg": "/bvshreedevi/react-project1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bvshreedevi/react-project1/index.html",
+    "main.b5883d03.css.map": "/bvshreedevi/react-project1/static/css/main.b5883d03.css.map",
+    "main.afdc4f98.js.map": "/bvshreedevi/react-project1/static/js/main.afdc4f98.js.map",
+    "787.142da1d4.chunk.js.map": "/bvshreedevi/react-project1/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5883d03.css",
+    "static/js/main.afdc4f98.js"
+  ]
+}
